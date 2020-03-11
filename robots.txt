@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://maiwaechu.gyl-coder.top/sitemap.xml
